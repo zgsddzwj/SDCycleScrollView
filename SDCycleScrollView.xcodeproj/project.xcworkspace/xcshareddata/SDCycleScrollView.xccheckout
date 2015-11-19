@@ -10,14 +10,14 @@
 	<string>SDCycleScrollView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>FD1D6F72BD49749DB0C6DCC5777E0D807A77ABAF</key>
+		<key>E82260C8E779C9FEA3808D77C6BA400BE007D1A1</key>
 		<string>https://github.com/gsdios/SDCycleScrollView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SDCycleScrollView.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FD1D6F72BD49749DB0C6DCC5777E0D807A77ABAF</key>
+		<key>E82260C8E779C9FEA3808D77C6BA400BE007D1A1</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FD1D6F72BD49749DB0C6DCC5777E0D807A77ABAF</string>
+	<string>E82260C8E779C9FEA3808D77C6BA400BE007D1A1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FD1D6F72BD49749DB0C6DCC5777E0D807A77ABAF</string>
+			<string>E82260C8E779C9FEA3808D77C6BA400BE007D1A1</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SDCycleScrollView</string>
 		</dict>
